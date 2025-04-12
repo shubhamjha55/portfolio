@@ -12,6 +12,7 @@
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.8.1",
     "history": "^4.10.1",
+    "portfolio": "file:",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-headroom": "^3.1.0",

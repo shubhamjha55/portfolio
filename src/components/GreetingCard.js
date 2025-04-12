@@ -40,7 +40,7 @@ function GreetingCard() {
               color="primary"
               onClick={() =>
                 window.open(
-                  "https://drive.google.com/file/d/1TDBjY5bF2cxiisy8dlUIArE_rp83bEWD/view?usp=drive_link",
+                  "https://drive.google.com/file/d/1pXbmhRp6sLh1bZ0gUk9VVEgbNew-leig/view?usp=sharing",
                   "_blank"
                 )
               }
